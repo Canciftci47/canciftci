@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Final Project</title>
+</head>
+<body>
+    <header>
+        <h1>Aydın Can Çiftçi</h1>
+        <nav>
+            <a href = "https://www.linkedin.com/in/ayd%C4%B1n-can-%C3%A7ift%C3%A7i-937084106/">Linkedln</a>
+            <a href = "http://www.gmail.com">Gmail</a>
+            <a href = "http://www.google.com">Google</a>
+            <a href = "https://fontawesome.com/">Fontawesome</a><br>
+    </nav>
+    </header>
+    <section>
+        <h2>Favorite Foods</h2>
+        <ul>
+            <li>Pasta</li>
+            <li>Pizza</li>
+            <li>Steak</li>
+            <li>Hamburger</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Achievements</h2>
+        Progress in this course (100%)
+        <progress value="100" max="100"></progress>
+        <br>
+        Progress in the Specialization capstone (20%)
+        <progress value="20" max="100"></progress>
+        <br>
+        Progress in life goals (82%)
+        <progress value="82" max="100"></progress>
+    </section>
+    <section>
+        <h2>More About Me</h2>
+        <details>
+            <summary>Click to see details</summary>I grew up in Turkey.I am living my mother and my dog.If you click the 'Linkedln' you can see my resume.
+        </details>
+    </section>
+    <footer>
+        <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="Web Design For Everyone">
+        This page was created by Aydın Can Çiftçi.
+                
+    </footer>
+</body>
+</html>
